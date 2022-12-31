@@ -7,5 +7,5 @@ There are loops as entered by the user. For example, the robot/machine tries to 
 Then statistics are calculated about how much of them are stacked as requested. 
 After Robot selects and puts the glasses every time, the user approves or ejects its movement.  
 
-Average correct order in Version 1  is 16% percent. <br>
-Average correct order in Version 2  is 40% percent.
+Average correct order in Version 1  is 16%.<br>
+Average correct order in Version 2  is 40%. 
