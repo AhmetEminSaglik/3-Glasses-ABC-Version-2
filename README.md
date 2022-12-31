@@ -5,7 +5,7 @@ The robot/machine is requested to order them as the user want.
 For example, a user wants glasses stacked as C, A, and B.
 There are loops as entered by the user. For example, the robot/machine tries to order the glasses as randomly 100 times.
 Then statistics are calculated about how much of them are stacked as requested. 
-
 After Robot selects and puts the glasses every time, the user approves or ejects its movement.  
-average correct order in Version 1  is 16% percent.
-average correct order in Version 2  is 40% percent.
+
+Average correct order in Version 1  is 16% percent. <br>
+Average correct order in Version 2  is 40% percent.
